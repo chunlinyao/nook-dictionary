@@ -35,3 +35,6 @@ nosetests.xml
 .project
 .pydevproject
 .DS_Store
+*.bak
+out.db
+
